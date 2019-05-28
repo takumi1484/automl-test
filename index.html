@@ -3,12 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-<form name="form1">
-    <input name="formData" type="file" multiple >
+<form name="form0">
+    <label>
+        token:
+        <input name="inputToken" type="text" placeholder="トークンを入力">
+    </label>
 </form>
-<button onclick="send()">DL</button>
+<br>
+<form name="form1">
+    <label>
+        写真を選択:
+        <input name="formData" type="file" multiple >
+    </label>
+</form>
+<br>
+<button id="dl" onclick="send()" disabled>ダウンロード</button>
+
+<div class="app">
+    <div id="indicate">
+        進捗: <span id="done"></span>
+        /
+        <span id="total"></span>
+        <span id="dots"></span></div>
+    <div id="prog-bar" class="progress">
+        <div class="progress-bar">
+        </div>
+    </div>
+    <hr>
+    <h2>概要</h2>
+    <p>
+        autoMLを利用して音ゲーのリザルト画像を分別し、zipで出力します
+    </p>
+    <p>
+        api利用が多すぎるとお金がかかるためトークンで利用できるようにしています
+    </p>
+    <ul>-対応機種-
+        <li>beatmania</li>
+        <li>chunithm</li>
+        <li>ddr</li>
+        <li>jubeat</li>
+        <li>maimai</li>
+        <li>pop'n music</li>
+        <li>reflec beat</li>
+        <li>sound voltex</li>
+    </ul>
+    <h2>使い方</h2>
+    <p>
+        1.<a href="https://twitter.com/1484j">当サイト製作者</a>に連絡してトークンを取得、入力
+    </p>
+    <p>
+        2."ファイル選択"で分別したい複数の写真を選択する
+    </p>
+    <p>
+        3.進捗が"完了"となるまで待つ(まあまあ時間かかります)
+    </p>
+    <p>
+        4."ダウンロード"を押すとzipファイルがダウンロードできる(警告出るかも)
+    </p>
+    <p>
+
+    </p>
+
+    <h2>連絡</h2>
+    <p>
+        <a href="https://twitter.com/1484j">こちら</a>まで
+    </p>
+    <p>
+        対応機種はある程度の数の画像があれば簡単に増やせるので気軽に連絡ください
+    </p>
+</div>
 <script type="text/javascript" src="FileSaver.js"></script>
 <script type="text/javascript" src="jszip.js"></script>
 <script type="text/javascript" src="main.js"></script>
