@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1019ca09-e13c-4777-8f69-6bac67abe7fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autoML.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callback.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jwt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/request.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AccessToken/Revoke.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AccessToken/Verify.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AuthHandler/AuthHandlerFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AuthHandler/Guzzle5AuthHandler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AuthHandler/Guzzle6AuthHandler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Client.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Collection.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Exception.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Http/Batch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Http/MediaFileUpload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Http/REST.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Model.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Service.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Service/Exception.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Service/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Service/Resource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Task/Exception.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Task/Retryable.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Task/Runner.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Utils/UriTemplate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oAuth.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +61,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ignore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../auto-ml-otoge" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -182,7 +148,7 @@
       <workItem from="1562178549608" duration="1674000" />
       <workItem from="1562206256727" duration="822000" />
       <workItem from="1564379478427" duration="399000" />
-      <workItem from="1564379968628" duration="1323000" />
+      <workItem from="1564379968628" duration="2614000" />
     </task>
     <servers />
   </component>
