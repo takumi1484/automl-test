@@ -53,7 +53,7 @@ form.form1.formData.addEventListener( 'change', function(e) {
     }
 });
 
-
+let url = "https://automl.googleapis.com/v1beta1/projects/fine-climber-240416/locations/us-central1/models/ICN8753464127353970294:predict";
 
 let token = "";
 
