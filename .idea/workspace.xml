@@ -2,14 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1019ca09-e13c-4777-8f69-6bac67abe7fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/autoMLtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/autoMLtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AccessToken/Revoke.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AccessToken/Verify.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AuthHandler/AuthHandlerFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AuthHandler/Guzzle5AuthHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/AuthHandler/Guzzle6AuthHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Collection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Http/Batch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Http/MediaFileUpload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Http/REST.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Service.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Service/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Service/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Service/Resource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Task/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Task/Retryable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Task/Runner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/Utils/UriTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-api-php-client-master/src/Google/autoload.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oAuth.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,79 +50,19 @@
       <executable />
     </execution>
   </component>
-  <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.283608">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/main.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-289">
-                  <caret line="5" selection-start-line="5" selection-end-line="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="660">
-                  <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/main.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-550">
-                  <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/oAuth.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="110">
-                  <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/fine-climber-240416-4aeb475d6ae7.json">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/note.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="44">
-                    <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,57 +70,32 @@
         <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Google_Service_Prediction</find>
+      <find>autoML</find>
+      <find>AutoMlClient</find>
+      <find>token</find>
+      <find>accessTok</find>
+      <find>get</find>
+      <find>redi</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/node_modules/request.json.js" />
-        <option value="$PROJECT_DIR$/request.json" />
-        <option value="$PROJECT_DIR$/note.md" />
-        <option value="$PROJECT_DIR$/oAuth.php" />
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/main.js" />
-        <option value="$PROJECT_DIR$/main.php" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="109" />
-    <option name="y" value="19" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
-  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1OfrPDeZJ4CpwvFOLosuw5Y6xb9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="autoMLtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="autoMLtest" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ignore" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -161,6 +103,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kasum\MyWorkSpace\autoMLtest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kasum\MyWorkSpace\autoMLtest\ignore" />
       <recent name="C:\Users\kasum\MyWorkSpace\autoMLtest" />
     </key>
   </component>
@@ -176,12 +122,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/autoMLtest/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/server.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.server.php" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -212,144 +162,44 @@
       <workItem from="1558772152098" duration="1315000" />
       <workItem from="1558773496446" duration="996000" />
       <workItem from="1558774521139" duration="226000" />
-      <workItem from="1559020632607" duration="6691000" />
+      <workItem from="1559020632607" duration="7833000" />
+      <workItem from="1559191885318" duration="8609000" />
+      <workItem from="1559482496724" duration="977000" />
+      <workItem from="1559624711188" duration="7614000" />
+      <workItem from="1559705424416" duration="11023000" />
+      <workItem from="1559791681614" duration="3344000" />
+      <workItem from="1559876611595" duration="843000" />
+      <workItem from="1560299111042" duration="781000" />
+      <workItem from="1560300568207" duration="10915000" />
+      <workItem from="1560411151702" duration="6800000" />
+      <workItem from="1560602595257" duration="1673000" />
+      <workItem from="1560689183569" duration="8598000" />
+      <workItem from="1560737775094" duration="4727000" />
+      <workItem from="1560745640271" duration="165000" />
+      <workItem from="1560755810861" duration="3954000" />
+      <workItem from="1560835063109" duration="599000" />
+      <workItem from="1560862609737" duration="7270000" />
+      <workItem from="1562178549608" duration="1674000" />
+      <workItem from="1562206256727" duration="822000" />
+      <workItem from="1564379478427" duration="399000" />
+      <workItem from="1564379968628" duration="1323000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78008000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="257" y="57" width="654" height="688" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4265625" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.77361435" visible="true" weight="0.39205527" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.69014084" weight="0.33217993" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.22638564" side_tool="true" weight="0.40484428" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/@google-cloud/automl/src/v1beta1/auto_ml_client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1023">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@google-cloud/automl/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/main.php" />
-    <entry file="file://$PROJECT_DIR$/node_modules/request.json.js" />
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/request.json" />
-    <entry file="file://$PROJECT_DIR$/jszip.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google-api-php-client-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="66">
-            <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="17237" column="13" selection-start-line="17237" selection-start-column="13" selection-end-line="17237" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-550">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oAuth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fine-climber-240416-4aeb475d6ae7.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

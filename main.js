@@ -46,7 +46,7 @@ form.form1.formData.addEventListener( 'change', function(e) {
                     }//すべてのファイル処理が終わった場合
                 }else if(XHR.readyState==4 && XHR.status==401){
                     console.log(token);
-                    alert("401:token error")
+                    alert("401:token error");
                 }
             };
         };
